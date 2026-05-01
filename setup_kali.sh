@@ -26,6 +26,7 @@ sudo DEBIAN_FRONTEND=noninteractive apt-get install -y nmap metasploit-framework
 
 # Other essential tools
 sudo DEBIAN_FRONTEND=noninteractive apt-get install -y \
+    python3-requests \
     aircrack-ng \
     chntpw \
     crunch \
