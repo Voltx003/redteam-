@@ -2,8 +2,8 @@
 
 ## 1. Phân tích Frontend & App Keys
 - **Zendesk Messaging Snippet:** Đã trích xuất các App Keys từ `static.zdassets.com`.
-  - **Production Key:** `7e7de6fa-f07e-4231-8f8d-454e095d1794`
-  - **Staging Key:** `ab473e89-4f16-4124-af2f-72356cfa41dc`
+  - **Production Key:** `[REDACTED_PROD_KEY]`
+  - **Staging Key:** `[REDACTED_STAGING_KEY]`
 - **Biến cấu hình:** Tìm thấy các biến quan trọng như `productInstanceJwt`, `platformConversationId`, và `categoryId`.
 
 ## 2. Bản đồ hóa API Ultimate.ai
@@ -20,7 +20,7 @@
 - **SSO Flow:** Luồng xác thực chuyển hướng qua Okta (`zendesk.okta.com`) với CSP chặt chẽ.
 
 ## 4. Kịch bản Tấn công AI (Prompt Injection)
-- Đã soạn thảo các kịch bản thử nghiệm trong `AI_ATTACK_SCENARIOS.md`, bao gồm:
+- Đã soạn thảo các kịch bản thử nghiệm trong `METHODOLOGY.md`, bao gồm:
   - Trích xuất System Prompt.
   - Rò rỉ dữ liệu PII xuyên tenant qua RAG.
   - Vượt qua các hạn chế của bot AI.
