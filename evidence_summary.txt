@@ -1,0 +1,20 @@
+=== THÔNG TIN RÒ RỈ FIREBASE ===
+URL: https://fbauth.viator.com/__/firebase/init.json
+Dữ liệu:
+{
+  "apiKey": "AIzaSyC2ZT6-M-v4iqwEojZRdlwL2EnRFgT1BnM",
+  "appId": "1:518865853796:web:7f427888a71b4c1dc02e71",
+  "projectId": "api-project-518865853796"
+}
+
+=== DANH SÁCH USER WORDPRESS (LIỆT KÊ ĐƯỢC) ===
+operatorresources.viator.com: orc-wordpress-admin, rboosey, mchristof
+partnerresources.viator.com: alice-choo, jconstantine, vokeefe, erobak, gmoore, hbertram, lpatterson, bmcgillicuddy, attr-wp-admin
+
+=== THÔNG TIN API TỪ API-Checks.docx ===
+- Partner API v2 Structure: /partner/bookings/, /partner/products/
+- Common Headers: exp-api-key, Accept: application/json;version=2.0
+
+=== PHIÊN BẢN PLUGIN CÓ LỖ HỔNG ===
+- wpDataTables: 6.5.0.6 (Vulnerable to CVE-2024-3820 - SQL Injection)
+- Helpful: 4.5.24 (Vulnerable to Information Disclosure/Bypass)
