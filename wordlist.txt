@@ -1,0 +1,16 @@
+api
+dev
+stage
+test
+admin
+support
+mail
+internal
+vpn
+portal
+docs
+static
+assets
+ai
+agent
+chat

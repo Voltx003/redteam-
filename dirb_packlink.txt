@@ -1,0 +1,70 @@
+
+-----------------
+DIRB v2.22
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb_packlink.txt
+START_TIME: Fri May  1 13:30:52 2026
+URL_BASE: https://api-packlink.zendesk.com/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+SPEED_DELAY: 100 milliseconds
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://api-packlink.zendesk.com/ ----
++ https://api-packlink.zendesk.com/403 (CODE:200|SIZE:5442)
++ https://api-packlink.zendesk.com/404 (CODE:200|SIZE:2436)
++ https://api-packlink.zendesk.com/500 (CODE:200|SIZE:5292)
++ https://api-packlink.zendesk.com/access (CODE:302|SIZE:0)
++ https://api-packlink.zendesk.com/access.1 (CODE:302|SIZE:0)
++ https://api-packlink.zendesk.com/admin (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin.cgi (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin.php (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin.pl (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin_ (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin_area (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin_banner (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin_c (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin_index (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin_interface (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin_login (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin_logon (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin1 (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin2 (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin3 (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin4_account (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin4_colon (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin-admin (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin-console (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admincontrol (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admincp (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/adminhelp (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admin-interface (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/administer (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/administr8 (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/administracion (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/administrador (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/administrat (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/administratie (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/administration (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/administrator (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/administratoraccounts (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/administrators (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/administrivia (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/adminlogin (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/adminlogon (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/adminpanel (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/adminpro (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admins (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/adminsessions (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/adminsql (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/admintools (CODE:302|SIZE:5)
++ https://api-packlink.zendesk.com/agent (CODE:200|SIZE:259)
++ https://api-packlink.zendesk.com/apps (CODE:403|SIZE:27)
++ https://api-packlink.zendesk.com/attachments (CODE:403|SIZE:8397)
++ https://api-packlink.zendesk.com/billing (CODE:301|SIZE:0)
++ https://api-packlink.zendesk.com/blank (CODE:200|SIZE:1492)
++ https://api-packlink.zendesk.com/brands (CODE:302|SIZE:0)
