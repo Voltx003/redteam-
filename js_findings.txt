@@ -1,0 +1,12 @@
+- Script trích xuất:
+  - https://static.zdassets.com/ekr/snippet.js (Main snippet)
+  - https://static.zdassets.com/z2-sunco-widget/z2-messaging-widget.js (Messaging/AI Widget)
+- App Keys tìm thấy trong code:
+  - Staging: ab473e89-4f16-4124-af2f-72356cfa41dc
+  - Production: 7e7de6fa-f07e-4231-8f8d-454e095d1794
+- Global Variables/Config:
+  - z2_messaging_auth_key
+  - categoryId, productInstanceJwt, platformConversationId
+- Endpoints quan trọng:
+  - /hc/api/v2/integration/token (Help center integration)
+  - messenger:set, conversationMetadata (Cấu hình widget)

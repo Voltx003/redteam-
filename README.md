@@ -4,6 +4,8 @@ This repository provides scripts to set up a security research environment on Ub
 
 ## Setup Kali Linux Tools
 
+> **WARNING:** The setup script adds Kali Linux repositories to your Ubuntu system. This "mixed" configuration can lead to system instability if not handled carefully. Use a dedicated environment.
+
 To install the essential Kali Linux security tools, run the provided setup script:
 
 ```bash
