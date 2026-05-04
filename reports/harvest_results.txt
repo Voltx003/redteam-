@@ -1,0 +1,146 @@
+[*] Bắt đầu lùng sục 500 mục tiêu...
+[!] LOOT FOUND in 37solutions for 'password': 24 results
+[!] LOOT FOUND in 37solutions for 'api_key': 12 results
+[!] LOOT FOUND in 37solutions for 'internal only': 38 results
+[!] LOOT FOUND in 37solutions for 'confidential': 1 results
+[!] LOOT FOUND in 37solutions for 'secret': 4 results
+[!] LOOT FOUND in 37solutions for 'credentials': 2 results
+[!] LOOT FOUND in 37solutions for 'login': 7 results
+[!] LOOT FOUND in 3manager for 'password': 8 results
+[!] LOOT FOUND in 3manager for 'api_key': 3 results
+[!] LOOT FOUND in 3manager for 'internal only': 32 results
+[!] LOOT FOUND in 3manager for 'confidential': 1 results
+[!] LOOT FOUND in 3manager for 'secret': 4 results
+[!] LOOT FOUND in 3manager for 'credentials': 6 results
+[!] LOOT FOUND in 3manager for 'login': 10 results
+[!] LOOT FOUND in accountsportal for 'password': 4 results
+[!] LOOT FOUND in accountsportal for 'api_key': 6 results
+[!] LOOT FOUND in accountsportal for 'internal only': 55 results
+[!] LOOT FOUND in accountsportal for 'secret': 2 results
+[!] LOOT FOUND in accountsportal for 'credentials': 2 results
+[!] LOOT FOUND in accountsportal for 'login': 10 results
+[!] LOOT FOUND in adesso for 'internal only': 1 results
+[!] LOOT FOUND in aemilius for 'password': 2 results
+[!] LOOT FOUND in aemilius for 'internal only': 7 results
+[!] LOOT FOUND in aemilius for 'confidential': 1 results
+[!] LOOT FOUND in aemilius for 'secret': 1 results
+[!] LOOT FOUND in aemilius for 'login': 1 results
+[!] LOOT FOUND in agileworks for 'internal only': 4 results
+[!] LOOT FOUND in agileworks for 'credentials': 1 results
+[!] LOOT FOUND in agileworks for 'login': 2 results
+[!] LOOT FOUND in alerti for 'password': 1 results
+[!] LOOT FOUND in alerti for 'internal only': 2 results
+[!] LOOT FOUND in alerti for 'login': 1 results
+[!] LOOT FOUND in allnewcomics for 'internal only': 6 results
+[!] LOOT FOUND in allnewcomics for 'login': 1 results
+[!] LOOT FOUND in amazingsystem for 'internal only': 10 results
+[!] LOOT FOUND in amazingsystem for 'login': 16 results
+[!] LOOT FOUND in amcc for 'password': 9 results
+[!] LOOT FOUND in amcc for 'api_key': 5 results
+[!] LOOT FOUND in amcc for 'internal only': 7 results
+[!] LOOT FOUND in amcc for 'login': 5 results
+[!] LOOT FOUND in angelfish for 'password': 17 results
+[!] LOOT FOUND in angelfish for 'api_key': 33 results
+[!] LOOT FOUND in angelfish for 'internal only': 42 results
+[!] LOOT FOUND in angelfish for 'confidential': 1 results
+[!] LOOT FOUND in angelfish for 'credentials': 1 results
+[!] LOOT FOUND in angelfish for 'login': 25 results
+[!] LOOT FOUND in appointy for 'password': 13 results
+[!] LOOT FOUND in appointy for 'api_key': 14 results
+[!] LOOT FOUND in appointy for 'internal only': 72 results
+[!] LOOT FOUND in appointy for 'secret': 4 results
+[!] LOOT FOUND in appointy for 'credentials': 9 results
+[!] LOOT FOUND in arkadia for 'password': 12 results
+[!] LOOT FOUND in appointy for 'login': 79 results
+[!] LOOT FOUND in arkadia for 'api_key': 2 results
+[!] LOOT FOUND in arkadia for 'internal only': 6 results
+[!] LOOT FOUND in arkadia for 'secret': 1 results
+[!] LOOT FOUND in arkadia for 'login': 3 results
+[!] LOOT FOUND in artweb for 'password': 4 results
+[!] LOOT FOUND in artweb for 'api_key': 3 results
+[!] LOOT FOUND in artweb for 'internal only': 19 results
+[!] LOOT FOUND in artweb for 'secret': 1 results
+[!] LOOT FOUND in artweb for 'login': 64 results
+[!] LOOT FOUND in astera for 'password': 24 results
+[!] LOOT FOUND in assuranceit for 'internal only': 2 results
+[!] LOOT FOUND in astroglobe for 'password': 2 results
+[!] LOOT FOUND in astroglobe for 'api_key': 1 results
+[!] LOOT FOUND in astera for 'api_key': 108 results
+[!] LOOT FOUND in astroglobe for 'internal only': 5 results
+[!] LOOT FOUND in assuranceit for 'credentials': 1 results
+[!] LOOT FOUND in astera for 'internal only': 144 results
+[!] LOOT FOUND in astera for 'secret': 7 results
+[!] LOOT FOUND in astera for 'credentials': 58 results
+[!] LOOT FOUND in astera for 'login': 86 results
+[!] LOOT FOUND in audient for 'password': 1 results
+[!] LOOT FOUND in auditassistant for 'password': 8 results
+[!] LOOT FOUND in audient for 'api_key': 26 results
+[!] LOOT FOUND in authenticworld for 'password': 12 results
+[!] LOOT FOUND in audient for 'internal only': 114 results
+[!] LOOT FOUND in auditassistant for 'api_key': 44 results
+[!] LOOT FOUND in authenticworld for 'api_key': 2 results
+[!] LOOT FOUND in audient for 'secret': 2 results
+[!] LOOT FOUND in authenticworld for 'internal only': 6 results
+[!] LOOT FOUND in auditassistant for 'internal only': 102 results
+[!] LOOT FOUND in audient for 'login': 20 results
+[!] LOOT FOUND in auditassistant for 'confidential': 2 results
+[!] LOOT FOUND in auditassistant for 'secret': 8 results
+[!] LOOT FOUND in auditassistant for 'credentials': 1 results
+[!] LOOT FOUND in authenticworld for 'login': 13 results
+[!] LOOT FOUND in auditassistant for 'login': 17 results
+[!] LOOT FOUND in axence for 'internal only': 2 results
+[!] LOOT FOUND in axence for 'login': 1 results
+[!] LOOT FOUND in banzaihobby for 'password': 1 results
+[!] LOOT FOUND in banzaihobby for 'internal only': 3 results
+[!] LOOT FOUND in befunky for 'password': 6 results
+[!] LOOT FOUND in behrconsulting for 'password': 3 results
+[!] LOOT FOUND in befunky for 'api_key': 21 results
+[!] LOOT FOUND in behrconsulting for 'api_key': 1 results
+[!] LOOT FOUND in behrconsulting for 'internal only': 4 results
+[!] LOOT FOUND in befunky for 'internal only': 98 results
+[!] LOOT FOUND in behrconsulting for 'credentials': 1 results
+[!] LOOT FOUND in befunky for 'secret': 2 results
+[!] LOOT FOUND in befunky for 'credentials': 2 results
+[!] LOOT FOUND in bigoven for 'password': 5 results
+[!] LOOT FOUND in bigoven for 'api_key': 11 results
+[!] LOOT FOUND in bigoven for 'internal only': 17 results
+[!] LOOT FOUND in bigoven for 'secret': 1 results
+[!] LOOT FOUND in bigoven for 'credentials': 1 results
+[!] LOOT FOUND in bimotech for 'password': 10 results
+[!] LOOT FOUND in bimotech for 'api_key': 4 results
+[!] LOOT FOUND in bintube for 'password': 7 results
+[!] LOOT FOUND in bintube for 'api_key': 2 results
+[!] LOOT FOUND in bimotech for 'internal only': 11 results
+[!] LOOT FOUND in bintube for 'internal only': 5 results
+[!] LOOT FOUND in bimotech for 'secret': 2 results
+[!] LOOT FOUND in bintube for 'secret': 2 results
+[!] LOOT FOUND in bimotech for 'credentials': 3 results
+[!] LOOT FOUND in bintube for 'credentials': 1 results
+[!] LOOT FOUND in bimotech for 'login': 5 results
+[!] LOOT FOUND in bintube for 'login': 1 results
+[!] LOOT FOUND in bitfinex for 'password': 28 results
+[!] LOOT FOUND in bith for 'password': 2 results
+[!] LOOT FOUND in bith for 'api_key': 1 results
+[!] LOOT FOUND in bittenapps for 'password': 4 results
+[!] LOOT FOUND in bith for 'internal only': 8 results
+[!] LOOT FOUND in bitfinex for 'api_key': 70 results
+[!] LOOT FOUND in bittenapps for 'api_key': 9 results
+[!] LOOT FOUND in bittenapps for 'internal only': 21 results
+[!] LOOT FOUND in bitfinex for 'internal only': 180 results
+[!] LOOT FOUND in bith for 'login': 1 results
+[!] LOOT FOUND in bitfinex for 'confidential': 2 results
+[!] LOOT FOUND in bittenapps for 'secret': 5 results
+[!] LOOT FOUND in bittenapps for 'credentials': 3 results
+[!] LOOT FOUND in bitfinex for 'secret': 55 results
+[!] LOOT FOUND in bittenapps for 'login': 2 results
+[!] LOOT FOUND in bitfinex for 'credentials': 2 results
+[!] LOOT FOUND in bitfinex for 'login': 21 results
+[!] LOOT FOUND in bleep for 'password': 2 results
+[!] LOOT FOUND in bleep for 'internal only': 10 results
+[!] LOOT FOUND in bleep for 'login': 1 results
+[!] LOOT FOUND in bluezebra for 'password': 12 results
+[!] LOOT FOUND in bluezebra for 'api_key': 1 results
+[!] LOOT FOUND in bluezebra for 'internal only': 5 results
+[!] LOOT FOUND in bluezebra for 'credentials': 1 results
+[!] LOOT FOUND in bluezebra for 'login': 10 results
+[*] Hoàn tất. Tìm thấy 144 nơi chứa tiềm năng dữ liệu nhạy cảm.
