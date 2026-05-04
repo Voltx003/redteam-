@@ -1,4 +1,7 @@
 viator_clone/
 cloned_site/
+analysis_target/
+test_download/
 *.png
 __pycache__/
+*.log
